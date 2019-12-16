@@ -1,3 +1,9 @@
-this is test push.
-this is second test push.
-now im in new-branch.
+step 1 - git add .
+step 2 - git commit -m "commit message"
+step 3 - git status
+step 4 - git pull origin master/any branch name/forked
+step 5 - git push origin master/any branch name/forked
+
+for checking in which branch we are
+
+git checkout branchname 
